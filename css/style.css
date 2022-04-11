@@ -1,0 +1,17 @@
+body{
+  background: linear-gradient(to right, rgb(215, 145, 224), #8822e2);
+  font-family: 'Montserrat', sans-serif;
+}
+article{
+  width: 200px;
+  height: auto;
+  float: left;
+  padding: 2%;
+  border-radius: 5%;
+  margin: 1%;
+  background-color: aliceblue;
+}
+img{
+  width: 100%;
+  object-fit: cover;
+}
